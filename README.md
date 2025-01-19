@@ -7,4 +7,4 @@ My github username is:
 
 [vmankow]
 
-BL-MSCH-C220
+I have installed all of the software
